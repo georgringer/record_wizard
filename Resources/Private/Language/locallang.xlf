@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" product-name="record_wizard">
+        <header/>
+        <body>
+            <trans-unit id="button.label" xml:space="preserve">
+                <source>Create with wizard</source>
+            </trans-unit>
+            <trans-unit id="wizard.selectType" xml:space="preserve">
+                <source>Select type</source>
+            </trans-unit>
+            <trans-unit id="wizard.confirmButton" xml:space="preserve">
+                <source>Create record</source>
+            </trans-unit>
+            <trans-unit id="wizard.success.title" xml:space="preserve">
+                <source>Record created</source>
+            </trans-unit>
+            <trans-unit id="wizard.success.message" xml:space="preserve">
+                <source>The record was saved successfully. You are now being redirected to the edit form.</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

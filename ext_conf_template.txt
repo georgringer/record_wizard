@@ -1,0 +1,2 @@
+# cat=basic; type=string; label=Wizard tables (comma-separated list of table names that get a wizard button in the record list)
+wizardTables =

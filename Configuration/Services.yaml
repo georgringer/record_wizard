@@ -1,0 +1,14 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+
+  GeorgRinger\RecordWizard\:
+    resource: '../Classes/*'
+
+  GeorgRinger\RecordWizard\EventListener\AddRecordWizardButton:
+    tags:
+      - name: event.listener
+        identifier: 'record-wizard/add-wizard-button'
+        event: TYPO3\CMS\Backend\RecordList\Event\ModifyRecordListHeaderColumnsEvent
