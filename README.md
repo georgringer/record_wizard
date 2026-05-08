@@ -2,7 +2,7 @@
 
 Brings the guided step-by-step creation wizard — known from the TYPO3 page creation dialog — to arbitrary records in the backend list module.
 
-![Type selection step](Resources/Public/Screenshots/wizard-step1.png)
+![Type selection step](Resources/Public/Screenshots/wizard-step-1.png)
 ![Form step](Resources/Public/Screenshots/wizard-step-2.png)
 
 ## Requirements
